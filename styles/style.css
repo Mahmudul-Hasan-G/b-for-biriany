@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    line-break: 0;
+    text-align: center;
+}
+header{
+    display: flex;
+    justify-content: right;
+    background-color: coral;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+
+h1{
+    font-size: 100px;
+}
