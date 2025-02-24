@@ -5,8 +5,10 @@
 }
 header{
     display: flex;
-    justify-content: right;
+    justify-content: left;
+    gap: 200px;
     background-color: coral;
+    margin-bottom: 50px;
 }
 img{
     height: 400px;
@@ -15,4 +17,13 @@ img{
 
 h1{
     font-size: 100px;
+}
+h2{
+    font-size: 70px;
+}
+.pic{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    
 }
