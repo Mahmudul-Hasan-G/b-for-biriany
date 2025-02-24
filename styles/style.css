@@ -27,3 +27,10 @@ h2{
     gap: 50px;
     
 }
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 2px solid tomato;
+    padding: 10px 20px;
+}
